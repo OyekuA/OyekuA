@@ -1,7 +1,4 @@
 # Abdulquadri Oluwaseun Oyeku
-**First-Class Computer Science Graduate (4.89/5.0) | Backend & Distributed Systems Engineer**
-
-I specialize in building highly concurrent architectures, distributed data pipelines, and fault-tolerant middleware.
 
 ### Core Technical Stack
 - **Languages:** Python, C#, Java, SQL (PostgreSQL, MySQL)
